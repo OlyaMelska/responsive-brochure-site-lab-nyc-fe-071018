@@ -117,7 +117,10 @@ body{
       text-align: center;
       padding-top: 2%;
       font-size: 12px;
-      display: block;
+  }
+   #copyright{
+    clear: both;
+     display: block;
   }
   
   @media screen and (max-width: 700px){
